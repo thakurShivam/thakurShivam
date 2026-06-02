@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Java+%7C+Spring+Boot+%7C+React;AWS+Cloud+Learner;Always+Building+and+Learning" />
 </p>
----
 
 ## 🚀 About Me
 
@@ -125,26 +124,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 ## 🎯 2026 Goals
 
