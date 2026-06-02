@@ -5,11 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Java+%7C+Spring+Boot+%7C+React;AWS+Cloud+Learner;Always+Building+and+Learning" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -104,7 +99,6 @@
 
 - Personalized recommendation engine
 - TF-IDF vectorization
-- Cosine similarity algorithm
 - Data preprocessing and analysis
 
 ---
@@ -117,7 +111,6 @@
 - Utilized Convolutional Neural Networks (CNNs) to identify manipulated images and videos.
 - Achieved high validation accuracy on deepfake datasets.
 - Implemented image forensic analysis for detecting synthetic media.
-- Designed a user-friendly interface for real-time deepfake verification.
 - Enhanced trust and transparency in digital content through AI-driven analysis.
 
 ---
